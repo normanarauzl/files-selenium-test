@@ -1,1 +1,1 @@
-# Files to selenium test in php and angular
+# Files for selenium test in php and angular
